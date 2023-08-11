@@ -1,0 +1,7 @@
+The Dashboard Covid -19 contains data visualization of covid -19 cases in India. The data collected from the kaggle repository and visulization are created in tableau public.
+the dash borad contains 5 different types of visualization  which are  
+ 1.. Map - total death cases in each State
+ 2.. first vs second covid vaciness taken
+ 3.. number of people taen teh different covid vaccines
+ 4.. covid cases by state(unique)
+ 5.. people in different age grp.
